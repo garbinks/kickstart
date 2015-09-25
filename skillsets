@@ -1,0 +1,18 @@
+Post your skillsets here
+
+Kyle 
+Languages: C, C++, Java, Python... and tidbits of other scripting
+
+I'd like to think I have a good sense of project design, though I've never had any formal architecture training. 
+I think object oriented paradigm (OOP) lends itself to simplifying designs, but we shouldn't limit ourselves to OOP. 
+Simple designs are maintainable and stable. 
+If your design is simple, it is very easy to spot misuse of a component and realize design limitations/flaws.
+For ex: Hey guys, we definitely need a new component to do XYZ, since it is clearly not covered by our existing components.
+It creates a clear direction of where to take the design. 
+#simpledesign
+#endsoapboxrant
+
+Justin 
+
+
+Collin
